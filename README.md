@@ -1,3 +1,8 @@
+> **foxnaim** · Кеширование HTTP-ответов для Koa с поддержкой Redis и хранилища в памяти
+>
+> Готовая основа под клиентский проект. Стек: JavaScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # koa-cash
 
 [![build status](https://github.com/koajs/cash/actions/workflows/ci.yml/badge.svg)](https://github.com/koajs/cash/actions/workflows/ci.yml)
